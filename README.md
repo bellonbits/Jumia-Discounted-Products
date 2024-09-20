@@ -12,7 +12,7 @@ This project analyzes LED TV product data from Jumia Kenya, focusing on prices, 
 
 Run the data analysis script:
 
-python analyze_jumia_led_tvs.py
+python eda.py
 
 **Visualizations**
 
